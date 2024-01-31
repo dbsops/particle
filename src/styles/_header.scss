@@ -15,7 +15,7 @@
 
 .header {
   z-index: 1;
-  text-align: center;
+  text-align: left;
   color:#FFF;
   position: absolute;
   top: 50%;
@@ -60,8 +60,8 @@
 
 .header-icons {
   display: flex;
-  justify-content: center;
-  text-align: center;
+  justify-content: left;
+  text-align: left;
   .icon {
     text-align: center;
     color: #FFF;
@@ -96,7 +96,7 @@
   width: 100%;
   margin: 0 auto;
   display: block;
-  text-align: center;
+  text-align: left;
   font-size: 30px;
   cursor: pointer;
   .icon {
